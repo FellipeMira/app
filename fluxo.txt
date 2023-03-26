@@ -3,3 +3,4 @@
 # ? Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 # django-admin startproject setup
 # python manage.py runserver
+# Apps são funcionalidades e projeto é a base onde rodam os apps
