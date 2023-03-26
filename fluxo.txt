@@ -1,0 +1,5 @@
+# ! pip freeze > requirements.txt
+# ! django\Scripts\Activate
+# ? Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+# django-admin startproject setup
+# python manage.py runserver
